@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>The End of History and the Last Man (Audiobook)</title>
+    <link>https://pcloud.com/</link>
+    <description>
+      "The End of History and the Last Man" by Francis Fukuyama is a profound exploration of the political, economic, and philosophical developments following the Cold War. Fukuyama argues that liberal democracy may signal the endpoint of humanity's socio-political evolution.
+    </description>
+    <language>en-us</language>
+    <itunes:author>Francis Fukuyama</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/en/5/5a/The_End_of_History_and_the_Last_Man.jpg"/>
+    <pubDate>Mon, 21 Jul 2025 07:53:00 +0530</pubDate>
+    <lastBuildDate>Mon, 21 Jul 2025 07:53:00 +0530</lastBuildDate>
+    <itunes:category text="Audiobooks"/>
+
+    <item>
+      <title>The End of History and the Last Man - Complete</title>
+      <description>
+        Complete audiobook of "The End of History and the Last Man" by Francis Fukuyama. This work explores the idea that liberal democracy may constitute the endpoint of societal evolution following the Cold War era.
+      </description>
+      <pubDate>Mon, 21 Jul 2025 07:50:00 +0530</pubDate>
+      <enclosure url="https://p-def3.pcloud.com/cBZQfra5oZ7MzytD7Zo54B7ZZyV1PVkZ2ZZY5FZkZ0FtqnZJ4Zi4ZbmZDHZQzZ0RZSLZm4ZEzZ3LZLQZ7mZNpZvFZuTtB5Z4gbRYiNHVYb9zvCzgSocJFrovQ3y/The_End_of_History_and_the_Last_Man_Francis_Fukuyama_%F0%9D%97%A5%F0%9D%97%B6%F0%9D%97%BD%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%B1_%40%F0%9D%97%97%F0%9D%97%AE%F0%9D%98%87%F0%9D%97%AE%F0%9D%97%B6%F0%9D%9F%B2%F0%9D%9F%B2%F0%9D%9F%B3.m4b"
+                 length="0"
+                 type="audio/mp4"/>
+      <guid>https://p-def3.pcloud.com/cBZQfra5oZ7MzytD7Zo54B7ZZyV1PVkZ2ZZY5FZkZ0FtqnZJ4Zi4ZbmZDHZQzZ0RZSLZm4ZEzZ3LZLQZ7mZNpZvFZuTtB5Z4gbRYiNHVYb9zvCzgSocJFrovQ3y/The_End_of_History_and_the_Last_Man_Francis_Fukuyama_%F0%9D%97%A5%F0%9D%97%B6%F0%9D%97%BD%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%B1_%40%F0%9D%97%97%F0%9D%97%AE%F0%9D%98%87%F0%9D%97%AE%F0%9D%97%B6%F0%9D%9F%B2%F0%9D%9F%B2%F0%9D%9F%B3.m4b</guid>
+    </item>
+  </channel>
+</rss>
