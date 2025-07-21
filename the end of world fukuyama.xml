@@ -2,30 +2,38 @@
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>The End of History and the Last Man (Audiobook)</title>
+    <title>The End of History and the Last Man (Audiobook) + Philosophy Classics</title>
     <link>https://pcloud.com/</link>
     <description>
-      "The End of History and the Last Man" by Francis Fukuyama is a profound exploration of the political, philosophical, and historical forces that have shaped the modern world.
+      "The End of History and the Last Man" by Francis Fukuyama and "The World as Will and Idea, Volume 1" by Arthur Schopenhauer—presented in audiobook form for philosophical inquiry.
     </description>
-    <itunes:author>Francis Fukuyama</itunes:author>
+    <language>en</language>
+    <itunes:author>Francis Fukuyama, Arthur Schopenhauer</itunes:author>
     <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Philosophy"/>
+    <itunes:category text="Audiobooks"/>
+    <copyright>Public Domain / For Educational Use</copyright>
 
-    <!-- Chapter 1: Fukuyama -->
+    <!-- Episode 1 -->
     <item>
       <title>Chapter 1 - The End of History and the Last Man</title>
-      <enclosure url="https://pcdn4.pcloud.com/cBZKRmSUgZEYnLVKcy4WwzVRZ0FQ5Zk2Zep4VZ2Z45WwZZk442sZRZrEJkEwQZcA45Z8QZc4YwZr0i4ZXmNkZt4ZQZblMJ6bUHu5t1JbLl6IuslCyySZ5kJB/The%20End%20of%20History%20and%20the%20Last%20Man%20by%20Francis%20Fukuyama.mp3" type="audio/mpeg"/>
+      <enclosure url="https://pcdn4.pcloud.com/cBZKRmSUgZEYnLVKcy4WwzVRZ0FQ5Zk2Zep4VZ2Z45WwZZk442sZRZrEJkEwQZcA45Z8QZc4YwZr0i4ZXmNkZt4ZQZblMJ6bUHu5t1JbLl6IuslCyySZ5kJB/The%20End%20of%20History%20and%20the%20Last%20Man%20by%20Francis%20Fukuyama.mp3" length="0" type="audio/mpeg"/>
       <guid>https://pcdn4.pcloud.com/cBZKRmSUgZEYnLVKcy4WwzVRZ0FQ5Zk2Zep4VZ2Z45WwZZk442sZRZrEJkEwQZcA45Z8QZc4YwZr0i4ZXmNkZt4ZQZblMJ6bUHu5t1JbLl6IuslCyySZ5kJB/The%20End%20of%20History%20and%20the%20Last%20Man%20by%20Francis%20Fukuyama.mp3</guid>
       <pubDate>Mon, 21 Jul 2025 08:00:00 +0000</pubDate>
-      <description>Chapter 1: "The End of History and the Last Man" audiobook by Francis Fukuyama.</description>
+      <description>The opening chapter of Fukuyama's influential work, exploring the political and philosophical legacy of liberal democracy.</description>
+      <itunes:author>Francis Fukuyama</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
     </item>
 
-    <!-- Chapter 2: Schopenhauer -->
+    <!-- Episode 2 -->
     <item>
-      <title>Chapter 2 - Arthur Schopenhauer - The World as Will and Idea, Volume 1</title>
-      <enclosure url="https://p-def7.pcloud.com/cBZAy9qK9ZPqrXtD7Zo54B7ZZgw1PVkZ2ZZY5FZkZRJSzlZN8ZcLZsYZ4QZipZIQZpmZaLZ9QZ28Z6YZt4ZF4ZyQZbltB5Z7d38IM3772ulT8eMIqKFYmFgRyi7/Arthur%20Schopenhauer%20-%20The%20World%20as%20Will%20And%20Idea%2C%20Volume%201.mp3" type="audio/mpeg"/>
+      <title>Chapter 2 - Arthur Schopenhauer: The World as Will and Idea, Volume 1</title>
+      <enclosure url="https://p-def7.pcloud.com/cBZAy9qK9ZPqrXtD7Zo54B7ZZgw1PVkZ2ZZY5FZkZRJSzlZN8ZcLZsYZ4QZipZIQZpmZaLZ9QZ28Z6YZt4ZF4ZyQZbltB5Z7d38IM3772ulT8eMIqKFYmFgRyi7/Arthur%20Schopenhauer%20-%20The%20World%20as%20Will%20And%20Idea%2C%20Volume%201.mp3" length="0" type="audio/mpeg"/>
       <guid>https://p-def7.pcloud.com/cBZAy9qK9ZPqrXtD7Zo54B7ZZgw1PVkZ2ZZY5FZkZRJSzlZN8ZcLZsYZ4QZipZIQZpmZaLZ9QZ28Z6YZt4ZF4ZyQZbltB5Z7d38IM3772ulT8eMIqKFYmFgRyi7/Arthur%20Schopenhauer%20-%20The%20World%20as%20Will%20And%20Idea%2C%20Volume%201.mp3</guid>
       <pubDate>Mon, 21 Jul 2025 08:30:00 +0000</pubDate>
-      <description>Chapter 2: Arthur Schopenhauer's "The World as Will and Idea, Volume 1" (Audiobook).</description>
+      <description>Schopenhauer's foundational text in philosophy, exploring the nature of reality, perception, and will.</description>
+      <itunes:author>Arthur Schopenhauer</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
     </item>
 
   </channel>
