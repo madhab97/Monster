@@ -1,39 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>The End of History and the Last Man (Audiobook) + Philosophy Classics</title>
-    <link>https://pcloud.com/</link>
-    <description>
-      "The End of History and the Last Man" by Francis Fukuyama and "The World as Will and Idea, Volume 1" by Arthur Schopenhauer—presented in audiobook form for philosophical inquiry.
-    </description>
-    <language>en</language>
-    <itunes:author>Francis Fukuyama, Arthur Schopenhauer</itunes:author>
-    <itunes:explicit>no</itunes:explicit>
+    <title>Echo Vault</title>
+    <link>https://example.com/echovault</link>
+    <language>en-us</language>
+    <itunes:author>Echo Vault Curator</itunes:author>
+    <itunes:summary>Rare audiobooks from philosophy and power, hosted privately.</itunes:summary>
+    <description>Private collection of rare philosophical audiobooks.</description>
+    <itunes:owner>
+      <itunes:name>Echo Vault</itunes:name>
+      <itunes:email>none@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://upload.wikimedia.org/wikipedia/en/2/2d/The_End_of_History_and_the_Last_Man.jpg" />
+    <image>
+      <url>https://upload.wikimedia.org/wikipedia/en/2/2d/The_End_of_History_and_the_Last_Man.jpg</url>
+      <title>Echo Vault</title>
+      <link>https://example.com/echovault</link>
+    </image>
     <itunes:category text="Philosophy"/>
-    <itunes:category text="Audiobooks"/>
-    <copyright>Public Domain / For Educational Use</copyright>
 
-    <!-- Episode 1 -->
+    <!-- Episode 1: Fukuyama -->
     <item>
-      <title>Chapter 1 - The End of History and the Last Man</title>
-      <enclosure url="https://pcdn4.pcloud.com/cBZKRmSUgZEYnLVKcy4WwzVRZ0FQ5Zk2Zep4VZ2Z45WwZZk442sZRZrEJkEwQZcA45Z8QZc4YwZr0i4ZXmNkZt4ZQZblMJ6bUHu5t1JbLl6IuslCyySZ5kJB/The%20End%20of%20History%20and%20the%20Last%20Man%20by%20Francis%20Fukuyama.mp3" length="0" type="audio/mpeg"/>
-      <guid>https://pcdn4.pcloud.com/cBZKRmSUgZEYnLVKcy4WwzVRZ0FQ5Zk2Zep4VZ2Z45WwZZk442sZRZrEJkEwQZcA45Z8QZc4YwZr0i4ZXmNkZt4ZQZblMJ6bUHu5t1JbLl6IuslCyySZ5kJB/The%20End%20of%20History%20and%20the%20Last%20Man%20by%20Francis%20Fukuyama.mp3</guid>
-      <pubDate>Mon, 21 Jul 2025 08:00:00 +0000</pubDate>
-      <description>The opening chapter of Fukuyama's influential work, exploring the political and philosophical legacy of liberal democracy.</description>
+      <title>The End of History and the Last Man - Francis Fukuyama</title>
       <itunes:author>Francis Fukuyama</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>A profound philosophical exploration of liberal democracy's fate after the Cold War.</itunes:summary>
+      <enclosure url="https://p-def3.pcloud.com/cfZQfra5oZ7MzytD7Zo54B7ZZaSCPVkZ2ZZY5FZZ0FtqnZJ4Zi4ZbmZDHZQzZ0RZSLZm4ZEzZ3LZLQZ7mZNpZvFZdhOEtpgcWRVt4JVj7V1FE73QNQ3y/The_End_of_History_and_the_Last_Man_Francis_Fukuyama.m4b" 
+                 length="123456789" type="audio/x-m4b"/>
+      <guid>fukuyama-end-history</guid>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <itunes:duration>12:30:00</itunes:duration>
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/en/2/2d/The_End_of_History_and_the_Last_Man.jpg"/>
     </item>
 
-    <!-- Episode 2 -->
+    <!-- Episode 2: Schopenhauer -->
     <item>
-      <title>Chapter 2 - Arthur Schopenhauer: The World as Will and Idea, Volume 1</title>
-      <enclosure url="https://p-def7.pcloud.com/cBZAy9qK9ZPqrXtD7Zo54B7ZZgw1PVkZ2ZZY5FZkZRJSzlZN8ZcLZsYZ4QZipZIQZpmZaLZ9QZ28Z6YZt4ZF4ZyQZbltB5Z7d38IM3772ulT8eMIqKFYmFgRyi7/Arthur%20Schopenhauer%20-%20The%20World%20as%20Will%20And%20Idea%2C%20Volume%201.mp3" length="0" type="audio/mpeg"/>
-      <guid>https://p-def7.pcloud.com/cBZAy9qK9ZPqrXtD7Zo54B7ZZgw1PVkZ2ZZY5FZkZRJSzlZN8ZcLZsYZ4QZipZIQZpmZaLZ9QZ28Z6YZt4ZF4ZyQZbltB5Z7d38IM3772ulT8eMIqKFYmFgRyi7/Arthur%20Schopenhauer%20-%20The%20World%20as%20Will%20And%20Idea%2C%20Volume%201.mp3</guid>
-      <pubDate>Mon, 21 Jul 2025 08:30:00 +0000</pubDate>
-      <description>Schopenhauer's foundational text in philosophy, exploring the nature of reality, perception, and will.</description>
+      <title>The World as Will and Idea - Volume 1 - Arthur Schopenhauer</title>
       <itunes:author>Arthur Schopenhauer</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>The cornerstone of Schopenhauer's metaphysical pessimism. Volume 1 audiobook.</itunes:summary>
+      <enclosure url="https://p-def7.pcloud.com/cfZAy9qK9ZPqrXtD7Zo54B7ZZKjCPVkZ2ZZY5FZZRJSzlZN8ZcLZsYZ4QZipZIQZpmZaLZ9QZ28Z6YZt4ZF4ZyQZXpDf6b6qqgYPdkY0phPan0iGS4A7/Arthur%20Schopenhauer%20-%20The%20World%20as%20Will%20And%20Idea%2C%20Volume%201.mp3" 
+                 length="234567890" type="audio/mpeg"/>
+      <guid>schopenhauer-world-will</guid>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
+      <itunes:duration>18:00:00</itunes:duration>
+      <itunes:image href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Schopenhauer.jpg/440px-Schopenhauer.jpg"/>
     </item>
 
   </channel>
