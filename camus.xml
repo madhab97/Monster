@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/">
+
+  <channel>
+    <title>Camus vs Kierkegaard: A Philosophy of the Edge</title>
+    <link>https://yourdomain.com/camuscast</link>
+    <language>en</language>
+    <copyright>2025 The Vault That Watches</copyright>
+    <itunes:author>The Vault That Watches</itunes:author>
+    <itunes:summary>Absurdity meets faith. This is not a podcast — this is a confrontation of philosophies stitched in silence. One episode, one duel. Camus vs Kierkegaard.</itunes:summary>
+    <description>One thinker refused to kneel. The other demanded surrender. This episode doesn't resolve them — it leaves you standing between them.</description>
+    <itunes:owner>
+      <itunes:name>The Vault That Watches</itunes:name>
+      <itunes:email>void@echo.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://i.imgur.com/z4yMQUe.jpg"/>
+    <image>
+      <url>https://i.imgur.com/z4yMQUe.jpg</url>
+      <title>Camus vs Kierkegaard: A Philosophy of the Edge</title>
+      <link>https://yourdomain.com/camuscast</link>
+    </image>
+    <itunes:category text="Philosophy"/>
+    <itunes:explicit>no</itunes:explicit>
+
+    <item>
+      <title>The Philosophy of Camus — Through a Kierkegaardian Lens</title>
+      <description>What happens when revolt meets faith? This is a slow burn into the fault lines of philosophy. A confrontation between Albert Camus and Søren Kierkegaard that leaves the listener at the edge of absurd meaning.</description>
+      <itunes:author>The Vault That Watches</itunes:author>
+      <itunes:subtitle>One thinker kneels before God. One denies the altar. You decide who survives.</itunes:subtitle>
+      <enclosure url="https://p-def7.pcloud.com/cBZxKxKJoZjXQM6D7Zo54B7ZZxxdPVkZ2ZZY5FZkZ4SSE1ZOHZRRZ8YZSpZzmZUpZiHZ9FZapZ9YZv4Zy4ZkVZrzZ2iUB5ZTMyFmHLoEl73v33cwKh92kfJigsX/The%20Philosophy%20of%20Camus_%20Through%20a%20Kierkegaardian%20Lens.mp3"
+                 length="62345678"
+                 type="audio/mpeg" />
+      <guid>cvk-episode-1</guid>
+      <pubDate>Mon, 21 Jul 2025 12:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
