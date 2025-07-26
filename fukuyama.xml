@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resources>
+    <!-- Book Metadata -->
+    <Book>
+        <Title>The End of History and the Last Man</Title>
+        <Author>Francis Fukuyama</Author>
+        <PublicationYear>1992</PublicationYear>
+        <Publisher>Free Press</Publisher>
+        <ISBN>978-0-02-910975-5</ISBN>
+        <Language>English</Language>
+        <Genre>Political Philosophy</Genre>
+        <Summary>
+            Fukuyama argues that liberal democracy is the final form of human government, following the collapse of fascism and communism.
+            The book explores ideological evolution, the role of recognition in society, and the philosophical and existential challenges facing modern democracies.
+        </Summary>
+        <KeyThemes>
+            <Theme>Liberal Democracy as the end point of political development</Theme>
+            <Theme>Hegelian Dialectic and the struggle for recognition</Theme>
+            <Theme>Problems of complacency and the “last man”</Theme>
+            <Theme>Challenges to democracy: nationalism and religion</Theme>
+            <Theme>Limits of materialism for human fulfillment</Theme>
+        </KeyThemes>
+    </Book>
+
+    <!-- Audiobook File Info -->
+    <Audiobook>
+        <FileName>The_End_of_History_and_the_Last_Man.m4b</FileName>
+        <Format>m4b</Format>
+        <FileSize>Unknown</FileSize>
+        <PlaybackInstructions>
+            <![CDATA[
+            To play this audiobook:
+            - Use VLC media player on Windows, Mac, or Android.
+            - Use iTunes/Music app on macOS or iOS devices.
+            - On Android, "Smart AudioBook Player" is recommended.
+            - If unsupported, convert .m4b to .mp3 using a free converter (ensure no DRM).
+            ]]>
+        </PlaybackInstructions>
+        <ChaptersSupported>true</ChaptersSupported>
+        <BookmarkSupport>true</BookmarkSupport>
+    </Audiobook>
+
+    <!-- Recommended Podcast Episode -->
+    <Podcast>
+        <Title>The End of Ideology? Fukuyama’s Legacy and Its Critics</Title>
+        <Host>Dr. Jane Kapoor</Host>
+        <Guests>
+            <Guest>
+                <Name>Francis Fukuyama</Name>
+                <Role>Author & Political Scientist</Role>
+            </Guest>
+            <Guest>
+                <Name>Dr. Amartya Sen</Name>
+                <Role>Philosopher & Economist</Role>
+            </Guest>
+        </Guests>
+        <PublicationDate>2025-03-14</PublicationDate>
+        <Duration>1:10:00</Duration>
+        <Series>The Big Thought Podcast</Series>
+        <Language>English</Language>
+        <Topics>
+            <Topic>Liberal Democracy</Topic>
+            <Topic>Philosophical History</Topic>
+            <Topic>Recognition and Identity</Topic>
+            <Topic>Global Political Trends</Topic>
+            <Topic>Nietzsche and Hegel in Modern Politics</Topic>
+        </Topics>
+        <Summary>
+            This episode delves into Francis Fukuyama’s famous “end of history” thesis two decades later. Is liberal democracy still unchallenged?
+            The discussion confronts the rise of nationalism, the resurgence of identity politics, and whether humanity’s longing for dignity and recognition can ever be fully satisfied under any system.
+        </Summary>
+        <Highlights>
+            <Highlight>Interview with Fukuyama on misinterpretations of his thesis</Highlight>
+            <Highlight>Debate: Are we facing a “return of history”?</Highlight>
+            <Highlight>Psychological roots of political dissatisfaction</Highlight>
+        </Highlights>
+        <RecommendedFor>
+            <Group>Philosophy Enthusiasts</Group>
+            <Group>History Buffs</Group>
+            <Group>Civic Educators</Group>
+        </RecommendedFor>
+    </Podcast>
+</Resources>
